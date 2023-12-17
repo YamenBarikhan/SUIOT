@@ -1,0 +1,1 @@
+echo noaalk03 | scp E:\\IoT\\IoT\\stt.mp3 noaalk03@192.168.0.82:/home/noaalk03/IoT
